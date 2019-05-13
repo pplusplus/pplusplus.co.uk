@@ -2,13 +2,11 @@
 layout: default
 ---
 <div>
-    <h4>Latest Posts</h4>
-    <p>This index.html page is a placeholder with the CSS, font and favicon. It's just waiting for you to add some content! If you need some help hit up the <a href="http://www.getskeleton.com">Skeleton documentation</a>.</p>
+    <h4>Projects</h4>
     <ul class="post-list">
-      {% for post in site.posts %}
-        <li>
+      {% for post in site.projects %}
+        <li class="post-list-item">
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
           <h2>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           </h2>

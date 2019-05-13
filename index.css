@@ -40,3 +40,7 @@ h1 {
     float: right;
     width: 66%;
 }
+
+.post-list-item {
+    list-style: none;
+}
