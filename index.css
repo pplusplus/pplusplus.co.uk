@@ -1,0 +1,42 @@
+body {
+    background-color: black;
+    padding: 20px;
+    height: calc(100vh - 40px);
+    margin: 0px;
+}
+
+h1 {
+    margin: 0px;
+}
+
+#profile {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+#container {
+    border-radius: 25px;
+    background-color: white;
+    height: 100%;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#info {
+    float:left;
+    width: calc(34% - 50px);
+    margin: 25px;
+}
+
+#info-content {
+    margin-left:auto;
+    margin-right:auto;
+    text-align: center;
+}
+
+#content {
+    float: right;
+    width: 66%;
+}
