@@ -44,3 +44,7 @@ h1 {
 .post-list-item {
     list-style: none;
 }
+
+.profile-container {
+    text-align: center;
+}
