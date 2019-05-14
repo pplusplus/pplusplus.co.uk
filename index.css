@@ -45,6 +45,10 @@ h1 {
     list-style: none;
 }
 
-.profile-container {
+.center {
     text-align: center;
+}
+
+i {
+    font-size: 16px;
 }
