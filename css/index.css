@@ -1,0 +1,22 @@
+.post-list-item {
+    list-style: none;
+}
+
+.center {
+    text-align: center;
+}
+
+.profile-container i {
+    font-size: 24px;
+}
+
+.profile-container a {
+    text-decoration: none;
+    color: grey;
+}
+
+.profile-container h3 {
+    text-align: center;
+    font-size: 2.8em;
+    margin-bottom: 50px;
+}
