@@ -5,4 +5,4 @@ title:  "Olfi"
 
 Hedcamz approached Footsqueek looking for a companion app to bundle with their affordable action camera: the Olfi Camera. Whilst I was provided with an SDK for the camera it proved to be extremely unstable and subsequently I was required to reverse engineer the SDK in order to create a new, stable and well-documented API.
 
-https://play.google.com/store/apps/details?id=com.hedcamz.olfi_action_cam&hl=en_GB
+<a href="https://play.google.com/store/apps/details?id=com.hedcamz.olfi_action_cam&hl=en_GB">View on Google Play</a>

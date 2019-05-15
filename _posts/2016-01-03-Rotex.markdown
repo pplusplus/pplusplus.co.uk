@@ -5,6 +5,6 @@ title:  "Rotex Sales Kit"
 
 Rotex were looking for an app used to retrieve datasheets and other supporting information to aid sales staff in their efforts at trade shows. The idea of the app is fairly simple; consume structural data from a web api. The app required a number of custom views to be created as well as persistance and synchronisation of data exposed by the web api to be used offline.
 
-https://play.google.com/store/apps/details?id=com.footsqueek.rotexsales
+<a href="https://play.google.com/store/apps/details?id=com.footsqueek.rotexsales">View on Google Play</a>
 
 #Java #Android #SQLite #CustomViews
