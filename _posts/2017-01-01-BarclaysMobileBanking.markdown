@@ -3,6 +3,6 @@ layout: post
 title:  "Barclays Mobile Banking"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec blandit lectus ac quam sodales egestas. Praesent tincidunt ex tristique ultricies laoreet. Nulla facilisi. Sed ac dapibus velit, vitae rhoncus erat. Quisque sed purus ac lorem euismod consectetur vitae non augue. Vestibulum hendrerit facilisis orci non scelerisque. Nulla ullamcorper ultrices sollicitudin. Donec lacinia tellus vitae eros consequat pulvinar. Praesent posuere vulputate purus a bibendum. Integer in tincidunt tortor.
+Barclays Mobile Banking is one of the UK's highest rated banking apps.
 
-Donec ut eros condimentum dui consequat auctor. Nullam volutpat nulla mi, vitae fringilla ligula commodo aliquet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In condimentum luctus imperdiet. Curabitur porta lorem ac lacus molestie, sit amet gravida nisi lobortis. Suspendisse ullamcorper lectus ut orci porttitor, facilisis faucibus diam feugiat. Pellentesque nisi nunc, finibus sit amet efficitur at, varius sed nulla. Aenean ac ante dui. Ut felis arcu, ultrices in magna a, eleifend bibendum erat. Nullam mattis consectetur felis a rutrum. Morbi tincidunt, est convallis volutpat lobortis, velit purus consequat mauris, sit amet dignissim eros purus quis sem.
+https://play.google.com/store/apps/details?id=com.barclays.android.barclaysmobilebanking&hl=en_GB

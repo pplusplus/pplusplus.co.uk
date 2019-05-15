@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Olfi"
+title:  "Chester Students Union"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec blandit lectus ac quam sodales egestas. Praesent tincidunt ex tristique ultricies laoreet. Nulla facilisi. Sed ac dapibus velit, vitae rhoncus erat. Quisque sed purus ac lorem euismod consectetur vitae non augue. Vestibulum hendrerit facilisis orci non scelerisque. Nulla ullamcorper ultrices sollicitudin. Donec lacinia tellus vitae eros consequat pulvinar. Praesent posuere vulputate purus a bibendum. Integer in tincidunt tortor.
