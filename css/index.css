@@ -18,3 +18,8 @@
 .profile-container {
     text-align: center;
 }
+
+.content-container {
+    padding-left:50px;
+    padding-right:50px;
+}
