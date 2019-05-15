@@ -3,6 +3,6 @@ layout: post
 title:  "1st Drive, Rewardrive, Wejo Rewards"
 ---
 
-<img src="/images/project/Rewardrive.png" />
+<img width="100%" src="/images/project/Rewardrive.png" />
 
-Rewardrive was a telematics app that rewards drivers for safe driving.
+Rewardrive was a telematics app that rewards drivers for safe driving. I was responsible for maintaining thi app on Android and iOS as well as creating new flavor variants for new clients. I subsequently facilitated the reimplementation of the application using MVP architecture.
