@@ -3,8 +3,8 @@ layout: post
 title:  "Olfi"
 ---
 
-<img src="/images/projects/olfi/1.png"/>
-<img src="/images/projects/olfi/2.png"/>
+<img width="74%" src="/images/projects/olfi/1.png"/>
+<img width="24%" src="/images/projects/olfi/2.png"/>
 
 Hedcamz approached Footsqueek looking for a companion app to bundle with their affordable action camera: the Olfi Camera. 
 
