@@ -3,6 +3,9 @@ layout: post
 title:  "Olfi"
 ---
 
+<img src="/images/projects/olfi/1.png"/>
+<img src="/images/projects/olfi/2.png"/>
+
 Hedcamz approached Footsqueek looking for a companion app to bundle with their affordable action camera: the Olfi Camera. 
 
 I was responsible for the implementation and supporting this application. I was asked to integrate a third-party SDK for the camera however, it proved to be extremely unstable and subsequently I was required to reverse engineer the SDK in order to create a new, stable and well-documented API.
